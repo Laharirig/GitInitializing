@@ -7,9 +7,9 @@ import java.sql.SQLException;
 public class Empcallstmt {
     public static void main(String[] args) {
         // JDBC URL, username, and password
-        String jdbcUrl = "jdbc:mysql://localhost:3306/Employee";
+        String jdbcUrl = "jdbc:mysql://localhost:3306/employee";
         String username = "root";
-        String password = "root";
+        String password = "2611";
 
         try {
             // Connect to the database
